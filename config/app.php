@@ -174,7 +174,6 @@ return [
         App\Providers\RouteServiceProvider::class,
 
         Spatie\Permission\PermissionServiceProvider::class,
-        Stevenyangecho\UEditor\UEditorServiceProvider::class,
         zgldh\QiniuStorage\QiniuFilesystemServiceProvider::class,
         Mews\Captcha\CaptchaServiceProvider::class,
         Yansongda\LaravelPay\PayServiceProvider::class,
